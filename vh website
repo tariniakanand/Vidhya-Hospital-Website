@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Landing Page</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <main>
+            <div class="big-wrapper light">
+                <header>
+                    <div class="container">
+                        <div class="logo">
+                        <img src="G:\My Drive\Aaaaaaaaaaaaaaa self\VH\logo3.jpg" alt="Logo">
+                        <h3>Starbucks</h3>
+                        </div>
+                        <div class="links">
+                            <ul>
+                                 <li><a href="#">Features</a></li>
+                                 <li><a href="#">Pricings</a></li>
+                                 <li><a href="#">Testimonials</a></li>
+                                 <li><a href="#" class="btn">Sign Up</a></li>
+                            </ul>
+                        </div>
+                        <div class="hamburger-menu">
+                            <div class="bar"></div>
+                        </div>
+                    </div>
+                </header>
+                <div class="showcase-area">
+                    <div class="container">
+                        <div class="left">
+                            <div class="big-title">
+                                <h1>Future is Here,</h1>
+                                <h1>Start Exploring Now.</h1>
+                            </div>
+                                <p class="text">
+                                 This is a test landing page with dummy text. Im blindly following this tutorial I found online. Dont mind this. Starbucks dont sue me pls.
+                                </p>
+                            <div class="cta">
+                                <a href="#" class="btn">Get Started</a>
+                            </div>
+                        </div>
+                    <div class="right">
+                        <img src="G:\My Drive\Self\Code\trial web page\starbucks.png" alt="Starbucks Coffee" class="Person"/>
+                    </div>
+                    </div>
+                </div>
+                <div class="bottom-area">
+                    <div class="container">
+                        <button class="toggle-btn">
+                            <i class="fa-solid fa-moon"></i>
+                            <i class="fa-solid fa-sun-bright"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+    </body>
+</html>
